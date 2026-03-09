@@ -13,7 +13,6 @@ _A biomechanical survival horror game where a passenger train has become a host 
 <div>
   
 * **Sam Esparza-Baker** - Game Design / Project Manager / Gameplay Programming
-  - 
   
 * **Paige Dahman** - Programming / UI / Writing
 
