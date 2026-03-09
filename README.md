@@ -4,6 +4,7 @@
 ---
 _A biomechanical survival horror game where a passenger train has become a host for a parasite that feeds on its passengers flesh and emotional turmoil. Playing as Lillie, a grief-stricken woman trying to return home after her sister’s septic death, the player must discover how the parasite spread, and figure out how to kill the train._
 
+[Trailer + Contributions](https://youtu.be/dIf1rcafjqI)
 ---
 #### To play select green Code dropdown and click Download ZIP, then unpack and run .exe file
 ---
