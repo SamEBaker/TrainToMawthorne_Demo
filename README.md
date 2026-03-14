@@ -1,5 +1,5 @@
 # TrainToMawthorne_Demo
-## GDC 2026 Booth #2358
+## AS SEEN @ GDC 2026
 ### Capstone Horror Game Demo
 ---
 _A biomechanical survival horror game where a passenger train has become a host for a parasite that feeds on its passengers flesh and emotional turmoil. Playing as Lillie, a grief-stricken woman trying to return home after her sister’s septic death, the player must discover how the parasite spread, and figure out how to kill the train._
