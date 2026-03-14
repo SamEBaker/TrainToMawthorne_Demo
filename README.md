@@ -18,7 +18,7 @@ _A biomechanical survival horror game where a passenger train has become a host 
 
 * **Malia Romero** - 3D Art / Set Design
 
-* **Morgan Kenner** - 3D Art / 2D Art
+* **Morgan Kenner** - 3D Art / Concept Art
 
 * **Kayleigh Hasselmeier** - 3D Art / Lighting / FX
   
