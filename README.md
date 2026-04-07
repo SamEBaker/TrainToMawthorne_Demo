@@ -7,7 +7,7 @@ _A biomechanical survival horror game where a passenger train has become a host 
 [Trailer + BTS](https://youtu.be/-cASBEKg3Js?si=FPzHwv0hxGpmFm-i)
 
 ---
-#### To play Download ZIP, then unpack and run .exe file --> [Link to Download Build on Sharepoint](https://myerauedu-my.sharepoint.com/:f:/g/personal/esparzs1_my_erau_edu/IgA-1dSl9LhkS6cBEpVKL285AbnQrZIW685lFg3IvhSYyBM?e=xCZiH2)
+#### To play Download ZIP, then unpack and run .exe file --> [Link to Download Build](https://drive.google.com/drive/folders/1OxEA73oW_h-FAcBD8V7lyo5XXtU2Otx2?usp=sharing)
 #### Tutorial on how to download and play --> [Youtube Link](https://youtu.be/YMFtawyiPxw)
 ---
 **Team Members** 
